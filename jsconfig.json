@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "~/*": ["app/*"]
+    },
+    "addtypes": ["../../Dropbox/Yellowbox/Yellowbox/node_modules/@nativescript/types-ios"]
+  },
+  "include": ["app/**/*"]
+}
